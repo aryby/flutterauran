@@ -20,27 +20,27 @@ This project is a **Flutter application** that integrates **SQLite** for local d
 
 1. Clone the repository:
    ```bash```
-   git clone https://github.com/your-username/flutter-sqlite-app.git
+        git clone https://github.com/your-username/flutter-sqlite-app.git
 
-    Navigate to the project directory:
+- Navigate to the project directory:
 
     ```bash```
 
-    cd flutter-sqlite-app
+        cd flutter-sqlite-app
 
 **Install dependencies**:
 
 ```bash```
 
-flutter pub get
+    flutter pub get
 
-```Run the app on your preferred device/emulator:```
+Run the app on your preferred device/emulator:
 
 ```bash```
 
     flutter run
 
-** Future Enhancements
+**Future Enhancements**
 
 - Implementing advanced query operations.
     - Adding support for more complex data models.
